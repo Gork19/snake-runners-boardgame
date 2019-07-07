@@ -5,8 +5,8 @@
 # master code works on tm4c123gxl, slave code works on arduino uno.
 
 # Hardware specs:
-Tiva-C TM4C123GXL
-Arduino UNO
-3x WS2812 Neopixel LED Circle
-Nokia5110 LCD Screen
-4x PBS26 16mm Push Button
+## Tiva-C TM4C123GXL
+## Arduino UNO
+## 3x WS2812 Neopixel LED Circle
+## Nokia5110 LCD Screen
+## 4x PBS26 16mm Push Button
